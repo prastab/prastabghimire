@@ -48,5 +48,17 @@ h3 {
 }
 .icon {
   height: 200px;
-  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.yt {
+  width: 45%;
+  float: right;
+  margin-left: 30px;
 }
