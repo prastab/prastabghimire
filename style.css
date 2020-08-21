@@ -5,6 +5,10 @@ body {
   font-family: "Merriweather", serif;
 }
 
+a {
+  color: #11999e;
+}
+
 span {
   text-decoration: underline;
 }
@@ -12,15 +16,19 @@ h1 {
   margin: 50px auto 0 auto;
   font-size: 5.625rem;
   font-family: "Sacramento", cursive;
+  color: #66bfbf;
 }
 
 h2 {
+  font-weight: normal;
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
+  color: #66bfbf;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
+  color: #11999e;
 }
 
 .top-container {
@@ -41,8 +49,4 @@ h3 {
 .icon {
   height: 200px;
   width: 200px;
-}
-
-.mountain {
-  background-position: center top;
 }
