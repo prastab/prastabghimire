@@ -8,6 +8,13 @@ body {
 
 a {
   color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 40px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
 }
 
 span {
@@ -119,4 +126,20 @@ p {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 30px 0;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  font-family: "Merriweather", serif;
+  font-size: 1.25rem;
 }
